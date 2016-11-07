@@ -113,3 +113,42 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-id="CancaoNova.PT" tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANÇÃO NOVA [SD]
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,btvhd
+http://94.61.219.134:9000/play/a00k
+#EXTINF:-1,RTP 1 HD
+http://94.61.219.134:9000/play/a00e
+#EXTINF:-1,SIC Radical
+http://94.61.219.134:9000/play/a00i
+#EXTINF:-1,SIC
+http://94.61.219.134:9000/play/a00g
+#EXTINF:-1,Cinemundo
+http://94.61.219.134:9000/play/a006
+#EXTINF:-1,A&E
+http://94.61.219.134:9000/play/a008
+#EXTINF:-1,Cartoon Network
+http://94.61.219.134:9000/play/a005
+#EXTINF:-1,TVI
+http://94.61.219.134:9000/play/a00j
+#EXTINF:-1,FOX Crime
+http://94.61.219.134:9000/play/a004
+#EXTINF:-1,AXN Black
+http://94.61.219.134:9000/play/a00a
+#EXTINF:-1,Hollywood
+http://94.61.219.134:9000/play/a007
+#EXTINF:-1,RTP 2
+http://94.61.219.134:9000/play/a00f
+#EXTINF:-1,sptv1hd
+http://94.61.219.134:9000/play/sptv
+#EXTINF:-1,TLC
+http://94.61.219.134:9000/play/a00c
+#EXTINF:-1,SIC Notícias
+http://94.61.219.134:9000/play/a00h
+#EXTINF:-1,FOX Life
+http://94.61.219.134:9000/play/a003
+#EXTINF:-1,AXN White
+http://94.61.219.134:9000/play/a009
+#EXTINF:-1,FOX Movies
+http://94.61.219.134:9000/play/a002
+#EXTINF:-1,MTV Portugal
+http://94.61.219.134:9000/play/a00b
